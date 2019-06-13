@@ -1,2 +1,3 @@
 # Movie-Slug
-## ROCKET LAWNCHAIR
+## Created with GoDot
+A game inspired by Metal Slug, a user controls a character that can run, jump, and shoot fireballs at enemies to collect coins and gain upgrades to continue through the game.
